@@ -1,0 +1,14 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: ea21dcf38c13fb8ab1f5
+            clientSecret: 6ef3da2c94afb810adfdacc106eeb90fdb63007b
+
+#server:
+#  servlet:
+#    session:
+#      cookie:
+#        same-site: none
